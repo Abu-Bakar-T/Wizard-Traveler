@@ -51,6 +51,9 @@ The team faced challenges working together due to busy schedules during the game
 
 We should have used GitHub for collaboration instead of Unity Cloud and its version control, which had a limit of 3 people per team for free accounts, unlike GitHub. Also, we should have scheduled more meetings with the assigned mentor about ideas and mock-up images instead of first completing our prototype and then asking for feedback. Also, we should have been more clear about the assigned workload along with the deadlines.
 
+# Downloadables
+Access the downloadables available for *Wizard Traveler* here:
+- [Mediafire](https://www.mediafire.com/folder/cvixntt6zxa0e/wizard_Traveler_Downloadables)
 
 ## WebGL Uploaded Build
 
